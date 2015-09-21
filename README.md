@@ -1,7 +1,4 @@
-![Habari News Logo](res/hdpi.png)
-
-
-# Speed Reader
+# ![Speed Reader Logo](res/hdpi.png) Speed Reader
 
 **Speed Reader App built in JavaScript with Apache Cordova**
 
