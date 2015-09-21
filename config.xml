@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="se.runesons.speedreader" version="15.3.14" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>SpeedReader</name>
+    <description>
+        Reed a text quickly.
+    </description>
+    <author email="dev@runesons.se" href="http://runesons.se">
+        jesurun
+    </author>
+    <content src="index.html" />
+    <icon src="res/mdpi.png" width="48" height="48" density="mdpi" />
+    <icon src="res/hdpi.png" width="72" height="72" density="hdpi" />
+    <icon src="res/xhdpi.png" width="96" height="96" density="xhdpi" />
+    <access origin="*" />
+</widget>
